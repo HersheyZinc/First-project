@@ -1,4 +1,4 @@
-# First-project
-My first python game with arcade module
+# First-projects
+My first python games with arcade module
 
 arcade v2.3.9
